@@ -1,5 +1,7 @@
 # TODO здесь писать код
 
+print('Новое изменение!')
+
 word = list(input('Введите слово: '))
 #list_word = list(word)
 count = -1

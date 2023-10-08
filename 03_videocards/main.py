@@ -1,5 +1,7 @@
 # TODO здесь писать код
 
+print('Работа с веткой skillbox-testing')
+
 card_count = int(input('Количество видеокарт: '))
 list_card = []
 
