@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ec8ae69-73b8-4e01-9d3d-f142a984082a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/07_word_analysis_2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_word_analysis_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +35,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Valeron/Skillbox_GitHub/special-app"
+    "git-widget-placeholder": "skillbox-testing",
+    "last_opened_file_path": "C:/Users/Valeron/Python_Basic"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
